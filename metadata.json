@@ -1,0 +1,6 @@
+{
+  "name": "MCLA Android Recomp Port & Toolchain",
+  "description": "Midnight Club: Los Angeles Complete Edition Xbox 360 static recompilation port for Android with Bring-Your-Own-ISO tool, Vulkan mobile pipeline, interactive touch testbed, and exportable APK project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
